@@ -1,5 +1,6 @@
 package examenfinalparte1;
 
+
 public class Principal {
 
     int result;
